@@ -1,5 +1,4 @@
 import snap
-import matplotlib.pyplot as plt
     
 
 #Loading dataset in edgelist form
